@@ -2,7 +2,7 @@ import mysql.connector as SQLC
 DataBase = SQLC.connect(
     host="localhost",
     user="root",
-    password="manmohan65",
+    password="password123",
     port="3306"
 )
 # Cursor to the database
